@@ -298,6 +298,7 @@ When using cloud-based AI services, the data you input is often collected and st
 	- [OpenWhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross-platform. Open source alternative to wisprflow.
 	- [Sasayaki](https://github.com/pluja/sasayaki) - Tiny android dictation app that turns speech into clear writing.
 	- [Speaches](https://github.com/speaches-ai/speaches) - OpenAI API-compatible server supporting streaming transcription, translation, and speech generation.
+	- [Yap MCP](https://github.com/founden-bot/yap-mcp) - MCP server and command-line tool that transcribes audio and video files on your own computer with NVIDIA Parakeet, so AI assistants such as Claude or Cursor can use recordings without a cloud transcription API, with no upload, account or API key. MIT licensed, for macOS, Windows and Linux.
 
 #### Image Generation
 
